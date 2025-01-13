@@ -1,6 +1,9 @@
-### Lecture 1: Introduction
+### Advanced NLP Spring 2025 Code
 
-1. `rule_based_classifier.ipynb`: train a rule-based classifier for sentiment analysis
-2. `trained_bow_classifier.ipynb`: train a simple bag-of-words classifier using structured perceptron
+Code for CMU Advanced NLP (11-711), Spring 2025
 
-References: *These notebooks are from https://github.com/neubig/anlp-code* by Graham Neubig
+Instructor: [Sean Welleck](https://wellecks.com/)
+
+Course website: https://cmu-l3.github.io/anlp-spring2025/
+
+Code examples associated with a lecture are in the directory prefixed with the lecture's number.
